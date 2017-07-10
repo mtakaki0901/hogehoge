@@ -5,6 +5,6 @@
   "license": "MIT",
   "dependencies": {
     "lodash": "^4.17.4",
-    "pack0001": "^0.0.1"
+    "pack0001": "^0.0.2"
   }
 }
